@@ -4,7 +4,7 @@ My name is Mikael Soares Bernes, I'm from Brazil , I am a student of Analysis an
 
 Currently working as a Logistics Analyst at Britânia Eletrônicos S/A. 🌃
 
-<img align="right" src="https://github.com/Mikaelsbernes/Mikaelsbernes/raw/main/computer-illustration.png" widht="350"/>
+<img align="right" src="https://github.com/Mikaelsbernes/Mikaelsbernes/raw/main/computer-illustration.png" widht="250"/>
 
 ## "My mind is my greatest power" 🧠
 
