@@ -2,7 +2,7 @@
 
 My name is Mikael Soares Bernes, I'm from Brazil , I am a student of Analysis and Systems Development at the University of Joinville region (Univille). 📚
 
-<img align="right" src="https://github.com/Mikaelsbernes/Mikaelsbernes/raw/main/computer-illustration.png" widht="150"/>
+<img align="right" src="https://github.com/Mikaelsbernes/Mikaelsbernes/raw/main/computer-illustration.png" widht="10"/>
 
 Currently working as a Logistics Analyst at Britânia Eletrônicos S/A. 🌃
 
