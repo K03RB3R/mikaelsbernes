@@ -4,7 +4,7 @@ My name is Mikael Soares Bernes, I'm from Brazil , I am a student of Analysis an
 
 Currently working as a Logistics Analyst at Britânia Eletrônicos S/A. 🌃
 
-#### "My mind is my greatest power" 🧠
+## "My mind is my greatest power" 🧠
 
 - 📍 From Santa Catarina living in Joinville.
 - 💻 Vast logistical and computer knowledge.
