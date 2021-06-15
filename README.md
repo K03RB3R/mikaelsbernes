@@ -10,7 +10,7 @@ Currently working as a Logistics Analyst at Britânia Eletrônicos S/A. 🌃
 - 💻 Vast logistical and computer knowledge.
 - 🔧 Technical knowledge in the IT sector - Infrastructure.
 
-### About me
+### Contact
 
 [![Instagram Badge](https://img.shields.io/badge/-@Mikaelsbernes-6633cc?style=flat-square&labelColor=6633cc&logo=instagram&logoColor=white&link=https://www.instagram.com/mikaelsbernes/)](https://www.instagram.com/mikaelsbernes/) 
 [![Linkedin Badge](https://img.shields.io/badge/-Mikael%20Soares-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mikaelsbernes/)](https://www.linkedin.com/in/mikaelsbernes/) 
