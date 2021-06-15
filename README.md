@@ -2,11 +2,11 @@
 
 My name is Mikael Soares Bernes, I'm from Brazil , I am a student of Analysis and Systems Development at the University of Joinville region (Univille). 📚
 
-<img align="right" src="https://github.com/Mikaelsbernes/Mikaelsbernes/raw/main/computer-illustration.png" widht="350"/>
+
 
 Currently working as a Logistics Analyst at Britânia Eletrônicos S/A. 🌃
 
-
+<img align="right" src="https://github.com/Mikaelsbernes/Mikaelsbernes/raw/main/computer-illustration.png" widht="350"/>
 
 ## "My mind is my greatest power" 🧠
 
@@ -18,7 +18,7 @@ Currently working as a Logistics Analyst at Britânia Eletrônicos S/A. 🌃
 
 
 
-![Mikaelsbernes Github Stats](https://github-readme-stats.vercel.app/api?username=Mikaelsbernes&show_icons=true&count_private=true&theme=dark)
+![Mikaelsbernes Github Stats "right"](https://github-readme-stats.vercel.app/api?username=Mikaelsbernes&show_icons=true&count_private=true&theme=dark)
 
 
 
