@@ -17,11 +17,6 @@ Currently working as a Logistics Analyst at Britânia Eletrônicos S/A. 🌃
 - 📚 I am ready to learn from you!
 
 
-
-![Mikaelsbernes Github Stats "right"](https://github-readme-stats.vercel.app/api?username=Mikaelsbernes&show_icons=true&count_private=true&theme=dark)
-
-
-
 ### Contact
 
 [![Instagram Badge](https://img.shields.io/badge/-@Mikaelsbernes-6633cc?style=flat-square&labelColor=6633cc&logo=instagram&logoColor=white&link=https://www.instagram.com/mikaelsbernes/)](https://www.instagram.com/mikaelsbernes/) 
