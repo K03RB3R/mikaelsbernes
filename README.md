@@ -14,7 +14,7 @@ Currently working as a Logistics Analyst at Britânia Eletrônicos S/A. 🌃
 - 💻 Vast logistical and computer knowledge.
 - 🔧 Technical knowledge in the IT sector - Infrastructure.
 - 🔎 Seeking knowledge exchange
-- 📚 I am ready to learn from you!
+- 📚 Currently studying progress.
 
 
 ### Contact
